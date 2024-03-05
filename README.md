@@ -8,10 +8,10 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaysharma1228&label=Profile%20views&color=0e75b6&style=flat" alt="vinaysharma1228" /> </p> <br />
-&nbsp;<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaysharma1228&label=Profile%20views&color=0e75b6&style=flat" alt="vinaysharma1228" /> </p>
+
 <img align="left" alt="Progamming" width="400" src="https://i.pinimg.com/originals/14/30/1c/14301c7116f1ef503964cbfff0241a04.gif">
-&nbsp;
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinaysharma1228" alt="vinaysharma1228" /></a> </p>
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/home](https://drive.google.com/drive/u/0/home)
