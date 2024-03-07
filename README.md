@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaysharma1228&label=Profile%20views&color=0e75b6&style=flat" alt="vinaysharma1228" /> </p>
 
-<img  alt="Progamming" width="1000" height="350" src="https://media.licdn.com/dms/image/D4D16AQFrjxwuhs4I2w/profile-displaybackgroundimage-shrink_350_1400/0/1709829210743?e=1715212800&v=beta&t=9HMETX4VGWC8Rg-QoSMXLnYOzzdjn143bJPqynBs7U4">
+<img  alt="Progamming" width="900" src="https://media.licdn.com/dms/image/D4D16AQFrjxwuhs4I2w/profile-displaybackgroundimage-shrink_350_1400/0/1709829210743?e=1715212800&v=beta&t=9HMETX4VGWC8Rg-QoSMXLnYOzzdjn143bJPqynBs7U4">
 
 
 <!--<img align="left" alt="Progamming" width="400"  src="https://i.pinimg.com/originals/14/30/1c/14301c7116f1ef503964cbfff0241a04.gif"> -->
